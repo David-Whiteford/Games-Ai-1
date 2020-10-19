@@ -1,0 +1,10 @@
+﻿  AI.cpp
+  Game.cpp
+D:\Users\dave2\Desktop\4th Year\AI For Games\Ai For Games Lab1\Ai For Games Lab1\AI.h(4,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  main.cpp
+D:\Users\dave2\Desktop\4th Year\AI For Games\Ai For Games Lab1\Ai For Games Lab1\Game.h(4,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Player.cpp
+D:\Users\dave2\Desktop\4th Year\AI For Games\Ai For Games Lab1\Ai For Games Lab1\Game.h(4,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Source.cpp
+  Generating Code...
+D:\Users\dave2\Desktop\4th Year\AI For Games\Ai For Games Lab1\Ai For Games Lab1\Player.h(4,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory

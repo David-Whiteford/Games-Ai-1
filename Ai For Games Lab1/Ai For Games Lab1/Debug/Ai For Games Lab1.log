@@ -1,0 +1,81 @@
+﻿  AI.cpp
+D:\Users\dave2\Desktop\4th Year\Games-Ai-1\Ai For Games Lab1\Ai For Games Lab1\AI.cpp(29,19): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Users\dave2\Desktop\4th Year\Games-Ai-1\Ai For Games Lab1\Ai For Games Lab1\AI.cpp(38,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Users\dave2\Desktop\4th Year\Games-Ai-1\Ai For Games Lab1\Ai For Games Lab1\AI.cpp(47,28): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\Users\dave2\Desktop\4th Year\Games-Ai-1\Ai For Games Lab1\Ai For Games Lab1\AI.cpp(47,28): warning C4244:         with
+D:\Users\dave2\Desktop\4th Year\Games-Ai-1\Ai For Games Lab1\Ai For Games Lab1\AI.cpp(47,28): warning C4244:         [
+D:\Users\dave2\Desktop\4th Year\Games-Ai-1\Ai For Games Lab1\Ai For Games Lab1\AI.cpp(47,28): warning C4244:             T=float
+D:\Users\dave2\Desktop\4th Year\Games-Ai-1\Ai For Games Lab1\Ai For Games Lab1\AI.cpp(47,28): warning C4244:         ]
+D:\Users\dave2\Desktop\4th Year\Games-Ai-1\Ai For Games Lab1\Ai For Games Lab1\AI.cpp(46,78): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\Users\dave2\Desktop\4th Year\Games-Ai-1\Ai For Games Lab1\Ai For Games Lab1\AI.cpp(46,78): warning C4244:         with
+D:\Users\dave2\Desktop\4th Year\Games-Ai-1\Ai For Games Lab1\Ai For Games Lab1\AI.cpp(46,78): warning C4244:         [
+D:\Users\dave2\Desktop\4th Year\Games-Ai-1\Ai For Games Lab1\Ai For Games Lab1\AI.cpp(46,78): warning C4244:             T=float
+D:\Users\dave2\Desktop\4th Year\Games-Ai-1\Ai For Games Lab1\Ai For Games Lab1\AI.cpp(46,78): warning C4244:         ]
+D:\Users\dave2\Desktop\4th Year\Games-Ai-1\Ai For Games Lab1\Ai For Games Lab1\AI.cpp(144,97): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\Users\dave2\Desktop\4th Year\Games-Ai-1\Ai For Games Lab1\Ai For Games Lab1\AI.cpp(144,97): warning C4244:         with
+D:\Users\dave2\Desktop\4th Year\Games-Ai-1\Ai For Games Lab1\Ai For Games Lab1\AI.cpp(144,97): warning C4244:         [
+D:\Users\dave2\Desktop\4th Year\Games-Ai-1\Ai For Games Lab1\Ai For Games Lab1\AI.cpp(144,97): warning C4244:             T=float
+D:\Users\dave2\Desktop\4th Year\Games-Ai-1\Ai For Games Lab1\Ai For Games Lab1\AI.cpp(144,97): warning C4244:         ]
+D:\Users\dave2\Desktop\4th Year\Games-Ai-1\Ai For Games Lab1\Ai For Games Lab1\AI.cpp(144,73): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\Users\dave2\Desktop\4th Year\Games-Ai-1\Ai For Games Lab1\Ai For Games Lab1\AI.cpp(144,73): warning C4244:         with
+D:\Users\dave2\Desktop\4th Year\Games-Ai-1\Ai For Games Lab1\Ai For Games Lab1\AI.cpp(144,73): warning C4244:         [
+D:\Users\dave2\Desktop\4th Year\Games-Ai-1\Ai For Games Lab1\Ai For Games Lab1\AI.cpp(144,73): warning C4244:             T=float
+D:\Users\dave2\Desktop\4th Year\Games-Ai-1\Ai For Games Lab1\Ai For Games Lab1\AI.cpp(144,73): warning C4244:         ]
+D:\Users\dave2\Desktop\4th Year\Games-Ai-1\Ai For Games Lab1\Ai For Games Lab1\AI.cpp(145,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Users\dave2\Desktop\4th Year\Games-Ai-1\Ai For Games Lab1\Ai For Games Lab1\AI.cpp(160,101): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\Users\dave2\Desktop\4th Year\Games-Ai-1\Ai For Games Lab1\Ai For Games Lab1\AI.cpp(160,101): warning C4244:         with
+D:\Users\dave2\Desktop\4th Year\Games-Ai-1\Ai For Games Lab1\Ai For Games Lab1\AI.cpp(160,101): warning C4244:         [
+D:\Users\dave2\Desktop\4th Year\Games-Ai-1\Ai For Games Lab1\Ai For Games Lab1\AI.cpp(160,101): warning C4244:             T=float
+D:\Users\dave2\Desktop\4th Year\Games-Ai-1\Ai For Games Lab1\Ai For Games Lab1\AI.cpp(160,101): warning C4244:         ]
+D:\Users\dave2\Desktop\4th Year\Games-Ai-1\Ai For Games Lab1\Ai For Games Lab1\AI.cpp(160,75): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\Users\dave2\Desktop\4th Year\Games-Ai-1\Ai For Games Lab1\Ai For Games Lab1\AI.cpp(160,75): warning C4244:         with
+D:\Users\dave2\Desktop\4th Year\Games-Ai-1\Ai For Games Lab1\Ai For Games Lab1\AI.cpp(160,75): warning C4244:         [
+D:\Users\dave2\Desktop\4th Year\Games-Ai-1\Ai For Games Lab1\Ai For Games Lab1\AI.cpp(160,75): warning C4244:             T=float
+D:\Users\dave2\Desktop\4th Year\Games-Ai-1\Ai For Games Lab1\Ai For Games Lab1\AI.cpp(160,75): warning C4244:         ]
+D:\Users\dave2\Desktop\4th Year\Games-Ai-1\Ai For Games Lab1\Ai For Games Lab1\AI.cpp(161,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Users\dave2\Desktop\4th Year\Games-Ai-1\Ai For Games Lab1\Ai For Games Lab1\AI.cpp(206,97): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\Users\dave2\Desktop\4th Year\Games-Ai-1\Ai For Games Lab1\Ai For Games Lab1\AI.cpp(206,97): warning C4244:         with
+D:\Users\dave2\Desktop\4th Year\Games-Ai-1\Ai For Games Lab1\Ai For Games Lab1\AI.cpp(206,97): warning C4244:         [
+D:\Users\dave2\Desktop\4th Year\Games-Ai-1\Ai For Games Lab1\Ai For Games Lab1\AI.cpp(206,97): warning C4244:             T=float
+D:\Users\dave2\Desktop\4th Year\Games-Ai-1\Ai For Games Lab1\Ai For Games Lab1\AI.cpp(206,97): warning C4244:         ]
+D:\Users\dave2\Desktop\4th Year\Games-Ai-1\Ai For Games Lab1\Ai For Games Lab1\AI.cpp(206,73): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\Users\dave2\Desktop\4th Year\Games-Ai-1\Ai For Games Lab1\Ai For Games Lab1\AI.cpp(206,73): warning C4244:         with
+D:\Users\dave2\Desktop\4th Year\Games-Ai-1\Ai For Games Lab1\Ai For Games Lab1\AI.cpp(206,73): warning C4244:         [
+D:\Users\dave2\Desktop\4th Year\Games-Ai-1\Ai For Games Lab1\Ai For Games Lab1\AI.cpp(206,73): warning C4244:             T=float
+D:\Users\dave2\Desktop\4th Year\Games-Ai-1\Ai For Games Lab1\Ai For Games Lab1\AI.cpp(206,73): warning C4244:         ]
+D:\Users\dave2\Desktop\4th Year\Games-Ai-1\Ai For Games Lab1\Ai For Games Lab1\AI.cpp(207,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Users\dave2\Desktop\4th Year\Games-Ai-1\Ai For Games Lab1\Ai For Games Lab1\AI.cpp(222,101): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\Users\dave2\Desktop\4th Year\Games-Ai-1\Ai For Games Lab1\Ai For Games Lab1\AI.cpp(222,101): warning C4244:         with
+D:\Users\dave2\Desktop\4th Year\Games-Ai-1\Ai For Games Lab1\Ai For Games Lab1\AI.cpp(222,101): warning C4244:         [
+D:\Users\dave2\Desktop\4th Year\Games-Ai-1\Ai For Games Lab1\Ai For Games Lab1\AI.cpp(222,101): warning C4244:             T=float
+D:\Users\dave2\Desktop\4th Year\Games-Ai-1\Ai For Games Lab1\Ai For Games Lab1\AI.cpp(222,101): warning C4244:         ]
+D:\Users\dave2\Desktop\4th Year\Games-Ai-1\Ai For Games Lab1\Ai For Games Lab1\AI.cpp(222,75): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\Users\dave2\Desktop\4th Year\Games-Ai-1\Ai For Games Lab1\Ai For Games Lab1\AI.cpp(222,75): warning C4244:         with
+D:\Users\dave2\Desktop\4th Year\Games-Ai-1\Ai For Games Lab1\Ai For Games Lab1\AI.cpp(222,75): warning C4244:         [
+D:\Users\dave2\Desktop\4th Year\Games-Ai-1\Ai For Games Lab1\Ai For Games Lab1\AI.cpp(222,75): warning C4244:             T=float
+D:\Users\dave2\Desktop\4th Year\Games-Ai-1\Ai For Games Lab1\Ai For Games Lab1\AI.cpp(222,75): warning C4244:         ]
+D:\Users\dave2\Desktop\4th Year\Games-Ai-1\Ai For Games Lab1\Ai For Games Lab1\AI.cpp(223,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Users\dave2\Desktop\4th Year\Games-Ai-1\Ai For Games Lab1\Ai For Games Lab1\AI.cpp(282,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Users\dave2\Desktop\4th Year\Games-Ai-1\Ai For Games Lab1\Ai For Games Lab1\AI.cpp(295,27): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+  Game.cpp
+D:\Users\dave2\Desktop\4th Year\Games-Ai-1\Ai For Games Lab1\Ai For Games Lab1\AI.cpp(304,49): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+D:\Users\dave2\Desktop\4th Year\Games-Ai-1\Ai For Games Lab1\Ai For Games Lab1\Game.cpp(34,24): warning C4244: '-=': conversion from 'double' to 'sf::Int32', possible loss of data
+  main.cpp
+  Math.cpp
+  Player.cpp
+D:\Users\dave2\Desktop\4th Year\Games-Ai-1\Ai For Games Lab1\Ai For Games Lab1\Game.cpp(55,34): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Users\dave2\Desktop\4th Year\Games-Ai-1\Ai For Games Lab1\Ai For Games Lab1\Game.cpp(55,34): warning C4244:         with
+D:\Users\dave2\Desktop\4th Year\Games-Ai-1\Ai For Games Lab1\Ai For Games Lab1\Game.cpp(55,34): warning C4244:         [
+D:\Users\dave2\Desktop\4th Year\Games-Ai-1\Ai For Games Lab1\Ai For Games Lab1\Game.cpp(55,34): warning C4244:             T=float
+D:\Users\dave2\Desktop\4th Year\Games-Ai-1\Ai For Games Lab1\Ai For Games Lab1\Game.cpp(55,34): warning C4244:         ]
+D:\Users\dave2\Desktop\4th Year\Games-Ai-1\Ai For Games Lab1\Ai For Games Lab1\Player.cpp(39,31): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+D:\Users\dave2\Desktop\4th Year\Games-Ai-1\Ai For Games Lab1\Ai For Games Lab1\Player.cpp(48,57): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+D:\Users\dave2\Desktop\4th Year\Games-Ai-1\Ai For Games Lab1\Ai For Games Lab1\Player.cpp(57,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Users\dave2\Desktop\4th Year\Games-Ai-1\Ai For Games Lab1\Ai For Games Lab1\Player.cpp(58,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Users\dave2\Desktop\4th Year\Games-Ai-1\Ai For Games Lab1\Ai For Games Lab1\Player.cpp(60,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Users\dave2\Desktop\4th Year\Games-Ai-1\Ai For Games Lab1\Ai For Games Lab1\Player.cpp(146,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  RayCast.cpp
+  Source.cpp
+  Generating Code...
+D:\Users\dave2\Desktop\4th Year\Games-Ai-1\Ai For Games Lab1\Ai For Games Lab1\Player.cpp(146,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Ai For Games Lab1.vcxproj -> D:\Users\dave2\Desktop\4th Year\Games-Ai-1\Ai For Games Lab1\Debug\Ai For Games Lab1.exe
